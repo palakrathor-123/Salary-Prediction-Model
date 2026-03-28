@@ -71,6 +71,7 @@ Each model is evaluated based on:
 ---
 
 ## Dashboard Preview
+<img width="1323" height="491" alt="Image" src="https://github.com/user-attachments/assets/fb7146fb-f1c5-4282-8ddb-4149f48851d7" />
 
 
 ### 📩 Author
